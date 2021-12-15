@@ -183,7 +183,7 @@ Issuers shall be exempt from the provisions of section 12(g) of the Act with res
 
 &ensp; &ensp; (j)  Any Token offered and sold in reliance on Rule 195 of the Securities Act of 1933.
 
-
+4
 
 
 
